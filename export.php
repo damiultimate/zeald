@@ -16,7 +16,7 @@
 $database = 'nba2019';
 include('include/utils.php');
 require_once('vendor/autoload.php');
-require_once('classes/Controller1.php');
+require_once('classes/Controller.php');
 require_once('classes/FormatHelper.php');
 
 // process the args
