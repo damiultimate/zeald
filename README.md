@@ -1,3 +1,3 @@
 # zeald
 Zeald PHP Tests (Short Version)<br>
-I have only included the files i edited. They are export.php, classes/Controller.php, classes/Export.php and a new file classes/FormatHelper.php
+I have only included the files i edited. They are export.php, classes/Controller.php, classes/Export.php and a new file classes/FormatHelper.php (helper class for the exporting process)
