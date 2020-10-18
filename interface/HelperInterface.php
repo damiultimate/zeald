@@ -1,6 +1,6 @@
 <?php 
 
-interface ExporterInterface{
+interface HelperInterface{
 
 	public function XML();
 
