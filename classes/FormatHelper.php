@@ -1,9 +1,11 @@
 <?php 
 use Illuminate\Support;
 use LSS\Array2Xml;
-
+require_once('interface/ExporterInterface.php');
 // This helper class was created to make the exporting process feel dynamic. If anyone pleases and they do not like this code, they can go ahead and build their own helper class.
-class FormatHelper{
+
+class FormatHelper implements ExporterInterface{
+
 
 	public function __construct(){
 
